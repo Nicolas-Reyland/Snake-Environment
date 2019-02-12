@@ -1,0 +1,5 @@
+wheel
+pygame
+numpy
+scipy
+opencv-python
