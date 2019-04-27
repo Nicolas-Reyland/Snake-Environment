@@ -1,5 +1,4 @@
 # Snake Environment
-from side_functions import __get_view_list__, __angle_with_apple__
 import pygame as pg
 from scipy.misc import imread
 #from pygame.locals import *
