@@ -7,6 +7,6 @@ setup(name='snake',
       description='A Snake environment',
       author='Nicolas Reyland',
       author_email='nicolas@reyland.net',
-      url='https://github.com/Ilu-Vatar/Snake-Environment',
+      url='https://github.com/Nicolas-Reyland/Snake-Environment',
       packages=setuptools.find_packages()
      )
