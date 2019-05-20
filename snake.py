@@ -6,8 +6,8 @@ import random, math, os, shutil
 import numpy as np
 
 '''
-Author: Ilu-Vatar
-my github: https://github.com/Ilu-Vatar
+Author: Nicolas-Reyland
+my github: https://github.com/Nicolas-Reyland
 first release on 12/02/2019
 version: 0.2.1
 
