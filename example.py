@@ -22,18 +22,3 @@ print('environment path: {}'.format(env.info.env_path))
 # get the action_space information
 print('\nAction Space information:')
 print('Action Shape is {}'.format(env.action_space.shape))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
