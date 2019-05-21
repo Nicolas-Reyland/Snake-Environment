@@ -1,5 +1,5 @@
 # Example for Snake Environment
-import snake
+import snakenv as snake
 # I'll use opencv for this example
 import cv2
 
