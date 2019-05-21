@@ -1,5 +1,5 @@
 # Snake-Environment
-A openai-like environment for python
+An openai-like environment for python
 
 This is a python-module for a snake-game-enivronment.
 
