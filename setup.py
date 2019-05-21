@@ -2,7 +2,7 @@
 from distutils.core import setup
 import setuptools
 
-setup(name='snake',
+setup(name='snakenv',
       version='1.0',
       description='A Snake environment',
       author='Nicolas Reyland',
